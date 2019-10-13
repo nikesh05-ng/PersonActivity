@@ -19,7 +19,7 @@
     <ImageView
         android:id="@+id/imageView"
         android:layout_width="match_parent"
-        android:layout_height="299dp"
+        android:layout_height="298dp"
         android:layout_margin="20dp"
         android:src="@mipmap/ic_launcher" />
 
